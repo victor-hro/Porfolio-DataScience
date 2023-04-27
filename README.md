@@ -7,3 +7,6 @@ This repository contains a link to access all my data science projects.
 * [Movie Recommender System](https://github.com/victor-hro/movie-recommender): movie recommender system based on collaborative filtering using K-Nearest Neighbors.
 * [Predict Cardiovascular Disease](https://github.com/victor-hro/cardiovascular-disease-prediction): Exploratory data analysis (EDA) and cardiovascular disease prediction model.
 * [Drug discovery](https://github.com/victor-hro/drug-discovery): machine learning approaches to develop predictive models that can determine given a particular compound whether it is active or not. The goal would be develop the best binary classification model.
+
+MLOps:
+* [Flask-Template](https://github.com/victor-hro/mlops-deploy-flask)
