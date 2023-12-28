@@ -6,9 +6,9 @@ This repository serves as a collection of my Data Science projects showcasing va
 ## Projects
 
 ### MLOps ans Web App Projects
-* [Flask-Template](https://github.com/victor-hro/mlops-deploy-flask): Basic template for deploying Flask applications.
 * [Spotify Web App](https://github.com/victor-hro/spotify-web-api): Web app using Spotify API and Streamlit.
 * [MLOps-HousePrices](https://github.com/victor-hro/mlops-house-prices): Web App for House Price Prediction encapsulated in a Docker container. The project provides an interactive web application to forecast house prices based on Machine Learning models. The entire codebase is encapsulated within a Docker container for easy execution and deployment.
+*  [Flask-Template](https://github.com/victor-hro/mlops-deploy-flask): Basic template for deploying Flask applications.
 
 ### Machine Learning Algorithms
 * [Predict Medical Insurance Cost](https://github.com/victor-hro/medical-insurance-prediction): Analyzing data from a health insurer to predict future insurance and identify factors leading to higher health care costs.
