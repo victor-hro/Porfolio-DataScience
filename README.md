@@ -15,3 +15,7 @@ This repository serves as a collection of my Data Science projects showcasing va
 * [Movie Recommender System](https://github.com/victor-hro/movie-recommender): Movie recommender system based on collaborative filtering using K-Nearest Neighbors.
 * [Predict Cardiovascular Disease](https://github.com/victor-hro/cardiovascular-disease-prediction): Exploratory data analysis (EDA) and cardiovascular disease prediction model.
 * [Drug Discovery](https://github.com/victor-hro/drug-discovery): Machine learning approaches to develop predictive models that can determine whether a particular compound is active or not. The goal would be to develop the best binary classification model.
+
+### Image and Text Generation
+* [LLM Text and Image Generator](https://github.com/victor-hro/llm-text-image-generator): This project involves generating images and text using OpenAI, Streamlit and Docker.
+
