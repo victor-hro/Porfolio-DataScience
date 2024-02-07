@@ -5,7 +5,7 @@ This repository serves as a collection of my Data Science projects showcasing va
 
 ## Projects
 
-### MLOps ans Web App Projects
+### MLOps and Web App Projects
 * [Spotify Web App](https://github.com/victor-hro/spotify-web-api): Web app using Spotify API and Streamlit.
 * [MLOps-HousePrices](https://github.com/victor-hro/mlops-house-prices): Web App for House Price Prediction encapsulated in a Docker container. The project provides an interactive web application to forecast house prices based on Machine Learning models. The entire codebase is encapsulated within a Docker container for easy execution and deployment.
 *  [Flask-Template](https://github.com/victor-hro/mlops-deploy-flask): Basic template for deploying Flask applications.
@@ -19,3 +19,5 @@ This repository serves as a collection of my Data Science projects showcasing va
 ### Image and Text Generation
 * [LLM Text and Image Generator](https://github.com/victor-hro/llm-text-image-generator): This project involves generating images and text using OpenAI, Streamlit and Docker.
 
+### Exploratory Data Analysis:
+* [Airbnb Growth Strategies](https://github.com/victor-hro/airbnb-growth-strategies)
