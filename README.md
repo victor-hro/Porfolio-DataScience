@@ -20,4 +20,4 @@ This repository serves as a collection of my Data Science projects showcasing va
 * [LLM Text and Image Generator](https://github.com/victor-hro/llm-text-image-generator): This project involves generating images and text using OpenAI, Streamlit and Docker.
 
 ### Exploratory Data Analysis:
-* [Airbnb Growth Strategies](https://github.com/victor-hro/airbnb-growth-strategies)
+* [Airbnb Growth Strategies](https://github.com/victor-hro/airbnb-growth-strategies): Exploratory Data Analysis project aiming to develop growth strategies for Airbnb hosts, providing insights into accommodation, cancellation policies, location analysis, and host performance.
