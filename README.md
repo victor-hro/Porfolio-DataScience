@@ -9,6 +9,7 @@ This repository serves as a collection of my Data Science projects showcasing va
 * [Spotify Web App](https://github.com/victor-hro/spotify-web-api): Web app using Spotify API and Streamlit.
 * [MLOps-HousePrices](https://github.com/victor-hro/mlops-house-prices): Web App for House Price Prediction encapsulated in a Docker container. The project provides an interactive web application to forecast house prices based on Machine Learning models. The entire codebase is encapsulated within a Docker container for easy execution and deployment.
 *  [Flask-Template](https://github.com/victor-hro/mlops-deploy-flask): Basic template for deploying Flask applications.
+*  [Stock Prices: AWS Sagemaker | Lambda | API Gateway](https://github.com/victor-hro/stockprices-sagemaker-lambda): The project showcases an approach to stock price prediction using AWS SageMaker, Lambda, and API Gateway, demonstrating proficiency in modern data science and software engineering tools.
 
 ### Machine Learning Algorithms
 * [Predict Medical Insurance Cost](https://github.com/victor-hro/medical-insurance-prediction): Analyzing data from a health insurer to predict future insurance and identify factors leading to higher health care costs.
