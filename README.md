@@ -17,11 +17,7 @@ This repository serves as a collection of my Data Science projects showcasing va
 * [Predict Cardiovascular Disease](https://github.com/victor-hro/cardiovascular-disease-prediction): Exploratory data analysis (EDA) and cardiovascular disease prediction model.
 * [Drug Discovery](https://github.com/victor-hro/drug-discovery): Machine learning approaches to develop predictive models that can determine whether a particular compound is active or not. The goal would be to develop the best binary classification model.
 * [Ecommerce Sentiment Analysis](https://github.com/victor-hro/ecommerce-sentiment-analysis): This project aims to perform sentiment analysis on product reviews from an Olist ecommerce platform. Using natural language processing (NLP) techniques and machine learning, the project seeks to identify and classify the sentiment expressed by customers regarding the products, providing valuable insights for improving the products and services offered by the platform.
-
-The process involves collecting and preprocessing the review data, building and training machine learning models for sentiment classification, and analyzing the obtained results. The project demonstrates skills in NLP, text processing, and machine learning model building for sentiment analysis.
-
-For more details, please refer to the [project repository](https://github.com/victor-hro/ecommerce-sentiment-analysis).
-
+* 
 ### Image and Text Generation
 * [LLM Text and Image Generator](https://github.com/victor-hro/llm-text-image-generator): This project involves generating images and text using OpenAI, Streamlit and Docker.
 
