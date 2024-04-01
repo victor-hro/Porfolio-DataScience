@@ -6,6 +6,7 @@ This repository serves as a collection of my Data Science projects showcasing va
 ## Projects
 
 ### MLOps and Web App Projects
+* [Ecommerce Sentiment Analysis](https://github.com/victor-hro/ecommerce-sentiment-analysis): This project aims to perform sentiment analysis on product reviews from an Olist ecommerce platform. Using natural language processing (NLP) techniques and machine learning, the project seeks to identify and classify the sentiment expressed by customers regarding the products, providing valuable insights for improving the products and services offered by the platform.
 * [Spotify Web App](https://github.com/victor-hro/spotify-web-api): Web app using Spotify API and Streamlit.
 * [MLOps-HousePrices](https://github.com/victor-hro/mlops-house-prices): Web App for House Price Prediction encapsulated in a Docker container. The project provides an interactive web application to forecast house prices based on Machine Learning models. The entire codebase is encapsulated within a Docker container for easy execution and deployment.
 *  [Flask-Template](https://github.com/victor-hro/mlops-deploy-flask): Basic template for deploying Flask applications.
@@ -16,7 +17,7 @@ This repository serves as a collection of my Data Science projects showcasing va
 * [Movie Recommender System](https://github.com/victor-hro/movie-recommender): Movie recommender system based on collaborative filtering using K-Nearest Neighbors.
 * [Predict Cardiovascular Disease](https://github.com/victor-hro/cardiovascular-disease-prediction): Exploratory data analysis (EDA) and cardiovascular disease prediction model.
 * [Drug Discovery](https://github.com/victor-hro/drug-discovery): Machine learning approaches to develop predictive models that can determine whether a particular compound is active or not. The goal would be to develop the best binary classification model.
-* [Ecommerce Sentiment Analysis](https://github.com/victor-hro/ecommerce-sentiment-analysis): This project aims to perform sentiment analysis on product reviews from an Olist ecommerce platform. Using natural language processing (NLP) techniques and machine learning, the project seeks to identify and classify the sentiment expressed by customers regarding the products, providing valuable insights for improving the products and services offered by the platform.
+
   
 ### Image and Text Generation
 * [LLM Text and Image Generator](https://github.com/victor-hro/llm-text-image-generator): This project involves generating images and text using OpenAI, Streamlit and Docker.
