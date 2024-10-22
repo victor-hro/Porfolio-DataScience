@@ -6,6 +6,7 @@ This repository serves as a collection of my Data Science projects showcasing va
 ## Projects
 
 ### MLOps and Web App Projects
+* [GCP CI/CD Basic Template](https://github.com/victor-hro/gcp-cicd): This project demonstrates how to set up a Continuous Integration (CI) and Continuous Delivery (CD) pipeline using Google Cloud Platform (GCP). It includes steps for building a Docker image, pushing it to Google Container Registry, deploying to Cloud Run, and scheduling jobs using Cloud Scheduler, which triggers the data processing workflow.
 * [Ecommerce Sentiment Analysis](https://github.com/victor-hro/ecommerce-sentiment-analysis): This project aims to perform sentiment analysis on product reviews from an Olist ecommerce platform. Using natural language processing (NLP) techniques and machine learning, the project seeks to identify and classify the sentiment expressed by customers regarding the products, providing valuable insights for improving the products and services offered by the platform.
 * [Spotify Web App](https://github.com/victor-hro/spotify-web-api): Web app using Spotify API and Streamlit.
 * [MLOps-HousePrices](https://github.com/victor-hro/mlops-house-prices): Web App for House Price Prediction encapsulated in a Docker container. The project provides an interactive web application to forecast house prices based on Machine Learning models. The entire codebase is encapsulated within a Docker container for easy execution and deployment.
